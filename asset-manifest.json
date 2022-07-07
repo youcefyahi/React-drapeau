@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-drapeau/static/css/main.f7952106.css",
+    "main.js": "/React-drapeau/static/js/main.41f89ce6.js",
+    "static/media/main.jpg": "/React-drapeau/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/React-drapeau/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/React-drapeau/index.html",
+    "main.f7952106.css.map": "/React-drapeau/static/css/main.f7952106.css.map",
+    "main.41f89ce6.js.map": "/React-drapeau/static/js/main.41f89ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7952106.css",
+    "static/js/main.41f89ce6.js"
+  ]
+}
