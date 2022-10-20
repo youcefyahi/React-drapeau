@@ -9,7 +9,6 @@ const Countries = () =>{
     const [selectedRadio, setSelectedRadio] = useState("")
     const radios = ["Africa","America","Asia","Europe","Oceania"];
 
-    // Use effect quand le composer est monter l appel se fait ? 
     useEffect(()=>{
     axios.get("https://restcountries.com/v3.1/all")
     .then((res)=>{

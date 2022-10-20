@@ -3,7 +3,6 @@ import axios from "axios"
 
 const Card = ({country}) =>{
 
-console.log(country)
 
 return(
 <li className="card">
