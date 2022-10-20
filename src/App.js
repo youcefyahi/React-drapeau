@@ -6,7 +6,7 @@ const App = () =>{
 return(
 <BrowserRouter>
 <Routes>
-  <Route path="/" element={<Home/>}/>
+  <Route path="//React-drapeau" element={<Home/>}/>
   <Route path="/about" element={<About/>}/>
 </Routes>
 </BrowserRouter>
